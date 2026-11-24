@@ -1,0 +1,20 @@
+[
+ {"path": "{SELF}", "w": 35},
+ {"path": "opponents/gen86_pkg/package_g18_6/bot.py", "w": 15},
+ {"path": "opponents/elite83.py", "w": 15},
+ {"path": "opponents/regbots/regbots/syn8/bot.py", "w": 4},
+ {"path": "opponents/regbots/regbots/syn7/bot.py", "w": 3},
+ {"path": "opponents/regbots/regbots/syn4/bot.py", "w": 2},
+ {"path": "opponents/regbots/regbots/gen7tree/bot.py", "w": 3},
+ {"path": "opponents/regbots/regbots/gen6tree/bot.py", "w": 2},
+ {"path": "opponents/regbots/regbots/gen5tree/bot.py", "w": 1},
+ {"path": "opponents/regbots/regbots/ataBot1.py", "w": 1},
+ {"path": "opponents/regbots/regbots/ataBot2.py", "w": 1},
+ {"path": "opponents/regbots/regbots/ataHonestBot.py", "w": 2},
+ {"path": "opponents/regbots/regbots/zboss2.py", "w": 1},
+ {"path": "opponents/styles/station.py", "w": 5},
+ {"path": "opponents/styles/rock.py", "w": 5},
+ {"path": "opponents/styles/maniac.py", "w": 4},
+ {"path": "opponents/styles/randombot.py", "w": 3},
+ {"path": "opponents/styles/mixer.py", "w": 3}
+]
